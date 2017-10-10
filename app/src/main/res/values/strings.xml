@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mes Depences</string>
+    <array name="Category">
+        <item>Food</item>
+        <item>Comminucation</item>
+        <item>Health</item>
+        <item>Clothing</item>
+        <item>Hobbies</item>
+        <item>equipment</item>
+    </array>
+    <string name="language">Fr</string>
+    <string name="country">Fr</string>
+    <string name="date_pattern">MM-dd-yyyy</string>
+
+</resources>
